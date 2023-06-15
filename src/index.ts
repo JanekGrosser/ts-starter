@@ -1,2 +1,5 @@
-const x = 2;
-console.log(x);
+export class HelloWorld {
+  sayHello(): string {
+    return 'Hello World';
+  }
+}

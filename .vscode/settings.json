@@ -8,5 +8,5 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "jest.autoRun": "off",
-  "javascript.format.semicolons": "insert",
+  "javascript.format.semicolons": "insert"
 }
